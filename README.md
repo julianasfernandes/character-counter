@@ -1,3 +1,3 @@
 Contador de caracteres
 
-Aplicação com obejetivo de permitir a contagem de caracteres de um determinado texto.
+Aplicação com objetivo de permitir a contagem de caracteres de um determinado texto.
