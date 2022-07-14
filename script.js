@@ -3,12 +3,12 @@
 
 
     var $txtMsg = document.getElementById('msg');
-    var $restaContainer = document.getElementById('restaContainer');
+    var $restaContainer = document.getElementById('restaContainer'); //progressive enhancement
     var $resta = document.getElementById('resta');
     var maxima = $txtMsg.maxLength;
-    
-    function mostrarContainerResta(){
-        $restaContainer.style.display = 'block';
+     
+    function mostrarContainerResta(){ //progressive enhancement
+        $restaContainer.style.display = 'block'; 
     }
     
     mostrarContainerResta();
